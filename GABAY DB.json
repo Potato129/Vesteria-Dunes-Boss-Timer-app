@@ -1,0 +1,1095 @@
+[
+  {
+    "id": "dfa-passport",
+    "name": "Philippine Regular ePassport",
+    "agency": "Department of Foreign Affairs (DFA)",
+    "category": "Travel",
+    "description": "Primary international travel document and sovereign proof of Philippine citizenship issued to Filipino citizens.",
+    "whereToGo": "DFA Consular Office",
+    "fees": "₱950.00 (Regular Processing); ₱1,200.00 (Expedited Processing); Convenience fee: ₱50.00 to ₱250.00",
+    "processingTime": "12 working days (NCR Regular) / 6 working days (NCR Expedited)",
+    "validity": "10 Years (Adults 18+); 5 Years (Minors)",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [
+      "https://passport.gov.ph"
+    ],
+    "whatToBring": [
+      {
+        "item": "Printed confirmed online appointment packet (form with barcodes and payment receipt)",
+        "type": "Original/Printed"
+      },
+      {
+        "item": "Original Certificate of Live Birth issued by PSA on security paper (SECPA)",
+        "type": "Original"
+      },
+      {
+        "item": "Clear photocopy of PSA Certificate of Live Birth",
+        "type": "Photocopy"
+      },
+      {
+        "item": "One valid government-issued photo ID (e.g., PhilID, UMID, Driver's License, Voter's Certification with dry seal)",
+        "type": "Original"
+      },
+      {
+        "item": "Clear photocopy of valid government-issued photo ID",
+        "type": "Photocopy"
+      },
+      {
+        "item": "Original PSA Marriage Certificate on security paper (for married females adopting husband's surname)",
+        "type": "Original"
+      },
+      {
+        "item": "Clear photocopy of PSA Marriage Certificate (for married females adopting husband's surname)",
+        "type": "Photocopy"
+      }
+    ],
+    "requirements": [
+      "Printed confirmed online appointment packet",
+      "PSA Certificate of Live Birth",
+      "One valid government-issued photo ID",
+      "PSA Marriage Certificate (if married female adopting husband's surname)",
+      "Appropriate collared attire (no piercings, dangling earrings, or cosmetic contact lenses)",
+      "Personal appearance for biometrics"
+    ],
+    "steps": [
+      {
+        "instruction": "Access passport.gov.ph, select a consular site, reserve an appointment slot, and complete the demographic questionnaire.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Settle the processing fee through designated payment channels within the mandated payment window.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Download and print the emailed appointment confirmation packet in standard A4 paper format.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Appear at the designated DFA Consular Office 15 to 30 minutes before your schedule in appropriate collared attire.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Present your appointment packet and original documents at the preliminary verification window for document authentication.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Complete biometric capture (digital portrait, 10-fingerprint scanning, and electronic signature).",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Confirm encoded entries on the verification screen and submit the transaction slip to the courier desk or keep the claim stub.",
+        "mode": "in-person"
+      }
+    ]
+  },
+  {
+    "id": "nbi-clearance",
+    "name": "NBI Multi-Purpose Clearance",
+    "agency": "National Bureau of Investigation (DOJ-NBI)",
+    "category": "Clearances and Employment",
+    "description": "Official criminal database certificate confirming whether an applicant has an active derogatory or criminal record in the Philippines.",
+    "whereToGo": "Selected NBI Clearance Branch / Center",
+    "fees": "₱130.00 statutory fee + ₱25.00 to ₱30.00 e-payment surcharge (₱0.00 for verified First-Time Jobseekers under RA 11261)",
+    "processingTime": "15 to 30 minutes onsite (No 'HIT'); 5 to 10 working days (With 'HIT')",
+    "validity": "1 Year",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [
+      "https://clearance.nbi.gov.ph",
+      "https://firsttimejobseekers.nbi.gov.ph"
+    ],
+    "whatToBring": [
+      {
+        "item": "Printed or digital copy of system-generated NBI Reference Number or QR code",
+        "type": "Original/Printed"
+      },
+      {
+        "item": "Electronic payment receipt or transaction confirmation slip",
+        "type": "Original/Printed"
+      },
+      {
+        "item": "Two original unexpired valid government-issued photo IDs bearing signature",
+        "type": "Original"
+      },
+      {
+        "item": "Original Barangay Certificate affirming First-Time Jobseeker status under RA 11261 (if applicable)",
+        "type": "Original"
+      },
+      {
+        "item": "Signed Oath of Undertaking for First-Time Jobseekers (if applicable)",
+        "type": "Original"
+      }
+    ],
+    "requirements": [
+      "Online registration and booked appointment",
+      "NBI Payment Reference Number",
+      "Proof of payment",
+      "Two original unexpired government-issued IDs",
+      "Proper dress code for biometric photograph",
+      "Personal appearance for biometric capture"
+    ],
+    "steps": [
+      {
+        "instruction": "Access clearance.nbi.gov.ph (or firsttimejobseekers.nbi.gov.ph) and register an account.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Complete the Applicant Information Form with personal, family, and educational details, then save.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Click 'Apply for Clearance', select the government ID you will present, and choose an appointment date, time, and branch.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Select your payment channel, settle the ₱130 fee plus service surcharge, and save your generated Reference Number.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Visit the scheduled NBI branch and present your Reference Number or QR code at document screening.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Complete biometric capture (photograph, rolled ten-fingerprint scan, and electronic signature).",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Verify your demographic details on the monitor; proceed to printing if 'No HIT' or await the 5-10 day investigation window if with 'HIT'.",
+        "mode": "in-person"
+      }
+    ]
+  },
+  {
+    "id": "philsys-national-id",
+    "name": "PhilSys National ID (PhilID / ePhilID)",
+    "agency": "Philippine Statistics Authority (PhilSys)",
+    "category": "Identity and Civil Records",
+    "description": "Foundational identification document issued to all Filipino citizens and resident aliens under RA 11055.",
+    "whereToGo": "PSA Fixed PhilSys Registration Center, LGU/Mall Site, or Mobile Registration Post",
+    "fees": "₱0.00 (Free of charge for initial registration and ePhilID issuance)",
+    "processingTime": "10 to 15 minutes onsite; physical PVC delivery subject to production transit",
+    "validity": "Permanent / Lifetime (Recapture of biometrics required at ages 5 and 15)",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [
+      "https://philsys.gov.ph"
+    ],
+    "whatToBring": [
+      {
+        "item": "Primary supporting document (Original PSA Birth Certificate + photo ID, DFA Passport, UMID, or Driver's License)",
+        "type": "Original"
+      },
+      {
+        "item": "Secondary supporting document (if primary document is unavailable: Voter's ID/Cert, Postal ID, TIN ID, etc.)",
+        "type": "Original"
+      },
+      {
+        "item": "PSA Certificate of Live Birth and parent's PhilSys Number (for minor applicants ages 1 to 4)",
+        "type": "Original"
+      }
+    ],
+    "requirements": [
+      "Original primary or secondary supporting identification document",
+      "Personal appearance of applicant",
+      "Personal appearance of parent with PSN (for children ages 1 to 4)",
+      "Biometric data capture"
+    ],
+    "steps": [
+      {
+        "instruction": "Proceed to an operating fixed PSA Registration Center, mall site, or active mobile registration post.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Present original primary or secondary identity documents to the Registration Kit Operator for authentication.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Undergo biometric data enrollment (dual iris scanning, 10-fingerprint impression, and neutral front portrait).",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Verify the demographic data encoded on the customer-facing screen to confirm accuracy.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Receive the PhilSys Transaction Slip showing the 29-digit Transaction Reference Number (TRN) to track delivery or claim ePhilID.",
+        "mode": "in-person"
+      }
+    ]
+  },
+  {
+    "id": "lto-student-permit",
+    "name": "Student-Driver's Permit",
+    "agency": "Land Transportation Office (DOTr-LTO)",
+    "category": "Driving",
+    "description": "Official authority granted to a citizen allowing them to learn and operate a motor vehicle under the supervision of a licensed driver.",
+    "whereToGo": "LTO Licensing Center or District Office",
+    "fees": "₱250.00 (₱100.00 Application Fee + ₱150.00 Student Permit Fee)",
+    "processingTime": "Approximately 1 hour and 50 minutes (excluding initial queueing)",
+    "validity": "1 Year (Non-renewable for driving instruction after expiration)",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [
+      "https://ltms.lto.gov.ph",
+      "https://lto.gov.ph"
+    ],
+    "whatToBring": [
+      {
+        "item": "Duly accomplished Application for Permits and Licenses (APL) form",
+        "type": "Original"
+      },
+      {
+        "item": "Original PSA Certificate of Live Birth or valid DFA Philippine Passport",
+        "type": "Original"
+      },
+      {
+        "item": "Clear photocopy of PSA Certificate of Live Birth or DFA Philippine Passport",
+        "type": "Photocopy"
+      },
+      {
+        "item": "Physical copy of Theoretical Driving Course (TDC) Certificate of Completion",
+        "type": "Original/Printed"
+      },
+      {
+        "item": "Physical copy of electronically transmitted Medical Certificate from LTO-accredited clinic",
+        "type": "Original/Printed"
+      },
+      {
+        "item": "One original valid government-issued photo ID of the applicant",
+        "type": "Original"
+      },
+      {
+        "item": "Clear photocopy of valid government-issued photo ID",
+        "type": "Photocopy"
+      },
+      {
+        "item": "Written parental or guardian consent (for applicants aged 16 to 17)",
+        "type": "Original"
+      },
+      {
+        "item": "Original and photocopy of parent or guardian's valid government photo ID (for applicants aged 16 to 17)",
+        "type": "Original & Photocopy"
+      }
+    ],
+    "requirements": [
+      "Minimum age of 16 for Filipinos (18 for foreigners)",
+      "Registered LTMS personal portal account",
+      "15-hour Theoretical Driving Course (TDC) electronic certificate",
+      "LTO Medical Certificate (electronically transmitted)",
+      "Duly accomplished APL form",
+      "Personal appearance for photo and signature capture"
+    ],
+    "steps": [
+      {
+        "instruction": "Complete the mandatory 15-hour Theoretical Driving Course (TDC) via an accredited driving school or LTO DEC.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Undergo medical evaluation at an LTO-accredited clinic to ensure electronic transmission of your medical certificate.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Log into the LTMS portal, book a transaction schedule at your preferred LTO Licensing Center, and print the appointment slip.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Submit all physical requirements at the LTO Customer Service Assistant desk for preliminary verification and queue ticketing.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Proceed to the encoding window for live digital photo, signature capture, and fingerprint recording.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Pay the ₱250.00 statutory fees at the cashier counter.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Await application approval and claim the physical Student-Driver's Permit card or official electronic document receipt.",
+        "mode": "in-person"
+      }
+    ]
+  },
+  {
+    "id": "lto-drivers-license",
+    "name": "Non-Professional Driver's License",
+    "agency": "Land Transportation Office (DOTr-LTO)",
+    "category": "Driving",
+    "description": "Official legal authority allowing a qualified motorist to operate light private passenger vehicles on public roads.",
+    "whereToGo": "LTO Licensing Center or District Office",
+    "fees": "₱685.00 (₱100.00 Application Fee + ₱585.00 License Fee); Practical vehicle rental: ₱250.00 to ₱500.00 (if personal vehicle is not provided)",
+    "processingTime": "3 to 4 hours (including examinations and practical evaluation)",
+    "validity": "5 Years (Initial issuance); 10 Years (Upon renewal with zero demerit points)",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [
+      "https://ltms.lto.gov.ph",
+      "https://lto.gov.ph"
+    ],
+    "whatToBring": [
+      {
+        "item": "Duly accomplished Application for Permits and Licenses (APL) form",
+        "type": "Original"
+      },
+      {
+        "item": "Valid Student-Driver's Permit (held for a minimum of 30 days and within its 1-year validity)",
+        "type": "Original"
+      },
+      {
+        "item": "Physical copy of Practical Driving Course (PDC) Certificate of Completion",
+        "type": "Original/Printed"
+      },
+      {
+        "item": "Physical copy of electronically transmitted Medical Certificate from LTO-accredited clinic",
+        "type": "Original/Printed"
+      },
+      {
+        "item": "Documentary proof of Taxpayer Identification Number (TIN) (for employed applicants)",
+        "type": "Original/Printed"
+      },
+      {
+        "item": "Parental consent document and original parent valid ID plus photocopy (for 17-year-old applicants)",
+        "type": "Original & Photocopy"
+      }
+    ],
+    "requirements": [
+      "At least 17 years old",
+      "Valid Student-Driver's Permit held for at least 30 days",
+      "Practical Driving Course (PDC) completion certificate",
+      "Valid LTO Medical Certificate",
+      "Passing score on LTMS Theoretical Examination",
+      "Passing score on Practical Driving Test"
+    ],
+    "steps": [
+      {
+        "instruction": "Complete Practical Driving Course (PDC) hours (minimum 8 hours) and verify digital transmission to LTO IT system.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Submit documentary requirements at the designated LTO Licensing Center evaluation desk.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Pay the ₱100.00 application fee at the cashier window.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Take and pass the computerized Theoretical Examination on road safety and driving rules on the LTMS terminal.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Take and pass the Practical Driving Test covering parking, vehicle maneuvering, and road driving.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Return to the cashier to pay the ₱585.00 license fee.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Proceed to the biometric counter for photo capture, signature recording, and issuance of the 5-year PVC driver's license card.",
+        "mode": "in-person"
+      }
+    ]
+  },
+  {
+    "id": "pnp-police-clearance",
+    "name": "National Police Clearance",
+    "agency": "Philippine National Police (PNP)",
+    "category": "Clearances and Employment",
+    "description": "National security clearance verifying whether an applicant has an active derogatory criminal record or outstanding arrest warrant.",
+    "whereToGo": "Designated PNP Police Station (NPCS Site)",
+    "fees": "₱150.00 statutory fee + ₱30.00 electronic convenience charge (₱0.00 for verified First-Time Jobseekers under RA 11261)",
+    "processingTime": "15 to 30 minutes onsite",
+    "validity": "6 Months",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [
+      "https://pnpclearance.ph"
+    ],
+    "whatToBring": [
+      {
+        "item": "Printed or digital NPCS appointment confirmation slip or reference barcode",
+        "type": "Original/Printed"
+      },
+      {
+        "item": "Official payment confirmation receipt / electronic Official Receipt (eOR)",
+        "type": "Original/Printed"
+      },
+      {
+        "item": "Two original unexpired government-issued IDs bearing photo and signature",
+        "type": "Original"
+      },
+      {
+        "item": "Original Barangay Certificate affirming First-Time Jobseeker status under RA 11261 (if applicable)",
+        "type": "Original"
+      },
+      {
+        "item": "Signed Oath of Undertaking for First-Time Jobseekers (if applicable)",
+        "type": "Original"
+      }
+    ],
+    "requirements": [
+      "Registered NPCS online user account",
+      "Confirmed police station appointment schedule",
+      "Two valid government-issued photo IDs",
+      "Payment confirmation receipt",
+      "Personal appearance for biometrics"
+    ],
+    "steps": [
+      {
+        "instruction": "Register an account on pnpclearance.ph and complete your personal profile information.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Select your preferred police station, date, and appointment slot for in-person biometric capture.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Pay the ₱150 fee plus ₱30 convenience charge via LandBank Link.Biz portal (GCash, Maya, or partner merchants).",
+        "mode": "online"
+      },
+      {
+        "instruction": "Report to the selected police station on your scheduled date and time with your appointment code and two original IDs.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Undergo biometric capture (live facial portrait, rolled 10-fingerprints, and electronic signature).",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Wait for automated database matching; if clear of derogatory records, claim your printed and dry-sealed clearance certificate.",
+        "mode": "in-person"
+      }
+    ]
+  },
+  {
+    "id": "bir-tin",
+    "name": "Taxpayer Identification Number (TIN)",
+    "agency": "Bureau of Internal Revenue (BIR)",
+    "category": "Tax Administration",
+    "description": "Permanent 9-digit system index number assigned by the BIR for individual tax accounting and official regulatory transactions.",
+    "whereToGo": "BIR Revenue District Office (RDO) with territorial jurisdiction",
+    "fees": "₱0.00 (TIN issuance and initial enrollment are strictly free of charge)",
+    "processingTime": "30 minutes to 1 working day upon reaching the evaluation counter",
+    "validity": "Permanent / Lifetime",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [
+      "https://orus.bir.gov.ph",
+      "https://bir.gov.ph"
+    ],
+    "whatToBring": [
+      {
+        "item": "Two accomplished copies of BIR Form 1902 (for local employees) or Form 1904 (for EO 98 / first-time jobseekers)",
+        "type": "Original"
+      },
+      {
+        "item": "One original valid government-issued photo ID showing legal name, birth date, and address",
+        "type": "Original"
+      },
+      {
+        "item": "Clear photocopy of valid government-issued photo ID",
+        "type": "Photocopy"
+      },
+      {
+        "item": "PSA Certificate of Live Birth (if the presented government ID lacks full birth details)",
+        "type": "Original & Photocopy"
+      },
+      {
+        "item": "Company Letter of Authority or HR endorsement confirming formal engagement (for Form 1902 applicants)",
+        "type": "Original"
+      },
+      {
+        "item": "Original Barangay Certificate issued pursuant to RA 11261 (for first-time jobseekers under Form 1904)",
+        "type": "Original"
+      },
+      {
+        "item": "Marriage Contract (for married female registrants, if applicable)",
+        "type": "Original & Photocopy"
+      }
+    ],
+    "requirements": [
+      "Two accomplished copies of BIR Form 1902 or Form 1904",
+      "One valid government-issued photo ID",
+      "Employer certification (Form 1902) or Barangay Certificate (Form 1904)",
+      "Zero existing TIN records in the BIR Integrated Tax System"
+    ],
+    "steps": [
+      {
+        "instruction": "Fill out BIR Form 1902 (through employer) or Form 1904, or encode details directly via BIR ORUS (orus.bir.gov.ph).",
+        "mode": "online"
+      },
+      {
+        "instruction": "Obtain a queue ticket at the Client Support Section (CSS) of your designated Revenue District Office (RDO).",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Submit the completed physical forms and supporting identity documents to the duty registration officer.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Wait while the officer executes an Integrated Tax System check to verify zero existing duplicate TIN records.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Receive the stamped receiving acknowledgment copy containing your permanent 9-digit system TIN and 3-digit branch code.",
+        "mode": "in-person"
+      }
+    ]
+  },
+  {
+    "id": "sss-number",
+    "name": "Social Security (SS) Number",
+    "agency": "Social Security System (SSS)",
+    "category": "Social Insurance",
+    "description": "Permanent lifetime identification number ensuring social insurance coverage against sickness, maternity, disability, retirement, and death.",
+    "whereToGo": "Online Portal (In-person SSS Branch appearance only required if manual document validation is flagged)",
+    "fees": "₱0.00 (Issuance of an SS number is completely free)",
+    "processingTime": "Immediate online issuance; 1 to 2 working days if supporting documents require branch evaluation",
+    "validity": "Permanent / Lifetime",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [
+      "https://sss.gov.ph"
+    ],
+    "whatToBring": [
+      {
+        "item": "Printed system-generated SS Number slip",
+        "type": "Original/Printed"
+      },
+      {
+        "item": "Original PSA-issued Certificate of Live Birth (or NSO copy with birth reference number)",
+        "type": "Original"
+      },
+      {
+        "item": "Clear photocopy of PSA Certificate of Live Birth",
+        "type": "Photocopy"
+      },
+      {
+        "item": "One primary valid government-issued ID (Passport, UMID, Driver's License, or PhilID in the absence of a birth certificate)",
+        "type": "Original & Photocopy"
+      }
+    ],
+    "requirements": [
+      "Active personal email address and mobile contact number",
+      "Scanned PDF or JPEG copy of PSA Birth Certificate or primary ID",
+      "Accomplished electronic registration form"
+    ],
+    "steps": [
+      {
+        "instruction": "Access sss.gov.ph, navigate to 'Apply for an SS Number Online', and accept the terms of service.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Input legal demographic details (full legal name, date of birth, mother's maiden name) and submit.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Open the validation link delivered to your personal email inbox and complete the full electronic registration form.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Upload a clear scanned PDF or JPEG copy of your PSA Birth Certificate or accepted primary government ID.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Download your generated SS Number, electronic SS Number slip, and account confirmation notice.",
+        "mode": "online"
+      },
+      {
+        "instruction": "If document upload fails or status is tagged as temporary, visit an SSS branch with the printed slip and original birth certificate.",
+        "mode": "in-person"
+      }
+    ]
+  },
+  {
+    "id": "philhealth-number",
+    "name": "PhilHealth Identification Number (PIN) & MDR",
+    "agency": "Philippine Health Insurance Corporation (PhilHealth)",
+    "category": "Social Insurance",
+    "description": "Permanent healthcare membership number and Member Data Record (MDR) providing subsidized medical and health insurance coverage.",
+    "whereToGo": "PhilHealth Local Health Insurance Office (LHIO) or Mall-based Service Center",
+    "fees": "₱0.00 (Registration, Member Data Record release, and paper ID issuance carry zero charges)",
+    "processingTime": "15 to 30 minutes for onsite transactions",
+    "validity": "Permanent / Lifetime",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [
+      "https://philhealth.gov.ph"
+    ],
+    "whatToBring": [
+      {
+        "item": "One original PhilHealth Member Registration Form (PMRF), fully accomplished and signed",
+        "type": "Original"
+      },
+      {
+        "item": "One original valid photo-bearing government-issued ID",
+        "type": "Original"
+      },
+      {
+        "item": "One clear photocopy of valid photo-bearing government-issued ID",
+        "type": "Photocopy"
+      },
+      {
+        "item": "Certificate of Employment or formal job contract (for formal direct employees)",
+        "type": "Original & Photocopy"
+      },
+      {
+        "item": "Clear photocopy of PSA Marriage Certificate (if declaring legal spouse as dependent)",
+        "type": "Photocopy"
+      },
+      {
+        "item": "Clear photocopy of PSA Birth Certificates (if declaring minor children below 21 years old as dependents)",
+        "type": "Photocopy"
+      }
+    ],
+    "requirements": [
+      "Accomplished PhilHealth Member Registration Form (PMRF)",
+      "One valid government-issued photo ID",
+      "Supporting civil registry documents (if declaring legal dependents)",
+      "Employment certificate (for formal direct sector)"
+    ],
+    "steps": [
+      {
+        "instruction": "Download and accomplish the PMRF, or complete initial enrollment via the eGovPH mobile super app.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Submit the completed PMRF and supporting ID proofs to the Public Assistance and Complaints Desk (PACD) at a PhilHealth LHIO.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Wait while the frontline evaluator reviews data completeness, encodes records, and verifies dependent qualifications.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Receive your system-generated PhilHealth Identification Number (PIN), printed Member Data Record (MDR), and laminated paper ID card.",
+        "mode": "in-person"
+      }
+    ]
+  },
+  {
+    "id": "pagibig-mid",
+    "name": "Pag-IBIG Member Identification (MID) Number",
+    "agency": "Home Development Mutual Fund (HDMF / Pag-IBIG Fund)",
+    "category": "Social Insurance",
+    "description": "Mandatory 12-digit savings and shelter financing account number for housing loans and providential provident savings.",
+    "whereToGo": "Virtual Pag-IBIG Portal (In-person branch visit optional for Loyalty Card Plus capture)",
+    "fees": "₱0.00 (Basic registration/MID); ₱125.00 card fee (Only if securing the optional Pag-IBIG Loyalty Card Plus)",
+    "processingTime": "Immediate online RTN generation; 2 to 3 working days for conversion to a permanent MID",
+    "validity": "Permanent / Lifetime",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [
+      "https://pagibigfundservices.com"
+    ],
+    "whatToBring": [
+      {
+        "item": "Printed system-generated online registration confirmation printout / Member Data Form (MDF)",
+        "type": "Original/Printed"
+      },
+      {
+        "item": "One original valid government-issued photo ID (e.g., PhilID, Passport, Driver's License, SSS ID)",
+        "type": "Original"
+      },
+      {
+        "item": "Clear photocopy of valid government-issued photo ID",
+        "type": "Photocopy"
+      },
+      {
+        "item": "Original PSA Birth Certificate or Marriage Certificate (if necessary to verify civil details or dependents)",
+        "type": "Original & Photocopy"
+      }
+    ],
+    "requirements": [
+      "Online demographic registration on Virtual Pag-IBIG",
+      "One valid government-issued photo ID",
+      "Active mobile number for SMS OTP authentication"
+    ],
+    "steps": [
+      {
+        "instruction": "Access the Virtual Pag-IBIG portal (pagibigfundservices.com) and navigate to the 'Member Registration' module.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Enter your full name and birth date, verify via SMS security code, and fill out residential, employment, and familial details.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Submit the digital form to generate your temporary Registration Tracking Number (RTN) and summary sheet.",
+        "mode": "online"
+      },
+      {
+        "instruction": "After 2 to 3 working days of deduplication, text your RTN to the official inquiry number or verify on Virtual Pag-IBIG to claim your MID.",
+        "mode": "online"
+      },
+      {
+        "instruction": "(Optional) Visit any Pag-IBIG branch, present your MID, pay ₱125 to the partner bank kiosk, and capture biometrics for a Loyalty Card Plus.",
+        "mode": "in-person"
+      }
+    ]
+  },
+  {
+    "id": "psa-civil-certificates",
+    "name": "PSA Civil Registry Certificates (Birth, Marriage, Death, CENOMAR)",
+    "agency": "Philippine Statistics Authority (PSA)",
+    "category": "Identity and Civil Records",
+    "description": "Official certified civil registry records printed on security paper (SECPA) establishing baseline legal lineage, marital status, or civil facts.",
+    "whereToGo": "PSA Civil Registration Service (CRS) Outlet",
+    "fees": "₱155.00 per copy for Birth, Marriage, Death (₱125 fee + ₱30 DST); ₱210.00 per copy for CENOMAR (₱180 fee + ₱30 DST)",
+    "processingTime": "1 to 2 hours for onsite walk-in processing at CRS outlet; 3 to 7 working days for online courier delivery",
+    "validity": "Permanent / Lifetime (SECPA does not expire, though receiving institutions typically mandate issuance within 6 months)",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [
+      "https://appointment.psa.gov.ph"
+    ],
+    "whatToBring": [
+      {
+        "item": "Printed PSA CRS Online Appointment slip with QR code",
+        "type": "Original/Printed"
+      },
+      {
+        "item": "Duly accomplished CRS Application Form (Birth, Marriage, Death, or CENOMAR)",
+        "type": "Original"
+      },
+      {
+        "item": "One original valid government-issued photo ID of the applicant",
+        "type": "Original"
+      },
+      {
+        "item": "Clear photocopy of valid government-issued photo ID",
+        "type": "Photocopy"
+      },
+      {
+        "item": "Original signed authorization letter from the document owner (if applying through an authorized representative)",
+        "type": "Original"
+      },
+      {
+        "item": "Original and photocopy of the document owner's valid government ID (if applying through representative)",
+        "type": "Original & Photocopy"
+      },
+      {
+        "item": "Original and photocopy of the representative's valid government ID (if applying through representative)",
+        "type": "Original & Photocopy"
+      }
+    ],
+    "requirements": [
+      "Confirmed PSA online appointment schedule",
+      "Duly accomplished CRS application form with complete demographic details",
+      "One valid government-issued photo ID",
+      "Document owner eligibility or signed authorization letter",
+      "Exact certification fee in cash"
+    ],
+    "steps": [
+      {
+        "instruction": "Visit appointment.psa.gov.ph, select a CRS outlet, choose the civil document type, and book an appointment slot.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Arrive at the PSA CRS Outlet 15 minutes before your schedule and present your printed appointment QR slip.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Get a priority queue number, enter the screening zone, and submit your accomplished application form and valid IDs.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Proceed to the cashier counter and pay the statutory certification fee (₱155 or ₱210 per copy).",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Wait in the document releasing area, then present your official receipt and valid ID to claim the SECPA certificate.",
+        "mode": "in-person"
+      }
+    ]
+  },
+  {
+    "id": "comelec-voters-certification",
+    "name": "Voter's Certification",
+    "agency": "Commission on Elections (COMELEC)",
+    "category": "Identity and Civil Records",
+    "description": "Official certification issued to registered voters verifying active registration, precinct assignment, and legal residency.",
+    "whereToGo": "Local COMELEC Office of the Election Officer (OEO) in city/municipality of registration",
+    "fees": "₱0.00 (Statutory ₱75.00 fee officially suspended under COMELEC Minute Resolution No. 24-0114)",
+    "processingTime": "10 to 15 minutes per transaction at local OEO",
+    "validity": "Typically 6 months to 1 year (as accepted by receiving institutions)",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [
+      "https://comelec.gov.ph"
+    ],
+    "whatToBring": [
+      {
+        "item": "One original valid government-issued photo ID bearing signature (PhilSys ID, Driver's License, Postal ID, Student ID)",
+        "type": "Original"
+      },
+      {
+        "item": "One clear photocopy of valid government-issued photo ID",
+        "type": "Photocopy"
+      },
+      {
+        "item": "Signed authorization letter or Special Power of Attorney (SPA) (if transacting through a representative)",
+        "type": "Original"
+      },
+      {
+        "item": "Original and photocopy of the voter's valid ID and representative's valid ID (if transacting through representative)",
+        "type": "Original & Photocopy"
+      }
+    ],
+    "requirements": [
+      "Active registered voter record in the local municipality/district",
+      "One valid government-issued photo ID with signature",
+      "Accomplished Voter's Certification request slip"
+    ],
+    "steps": [
+      {
+        "instruction": "Report to the local COMELEC Office of the Election Officer (OEO) where you are registered.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Log your name in the request registry and complete the Voter's Certification request slip.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Present your valid photo ID to the election assistant to verify active status and precinct record in the database.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Wait while the terminal operator formats and prints your official certification printout.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "The Election Officer reviews the document, applies their official agency signature, and stamps the official dry seal.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Sign the acknowledgment release logbook and claim your stamped Voter's Certification.",
+        "mode": "in-person"
+      }
+    ]
+  },
+  {
+    "id": "phlpost-postal-id",
+    "name": "Digitized Postal Identity Card",
+    "agency": "Philippine Postal Corporation (PHLPost)",
+    "category": "Identity and Civil Records",
+    "description": "Secure, digitized biometric identification card issued to Filipino citizens and resident foreigners confirming physical identity and address.",
+    "whereToGo": "Authorized Post Office or Mall-based Postal Capturing Site",
+    "fees": "₱550.00 (Inclusive of 12% VAT, biometric PVC fabrication, and door-to-door mail delivery)",
+    "processingTime": "10 to 15 working days (Metro Manila); 15 to 25 working days (Provincial)",
+    "validity": "3 Years (Filipinos); 1 Year (Resident foreign nationals)",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [
+      "https://phlpost.gov.ph"
+    ],
+    "whatToBring": [
+      {
+        "item": "Two copies of the duly accomplished Postal ID Application Form",
+        "type": "Original"
+      },
+      {
+        "item": "Original Proof of Identity (PSA Birth Certificate, DFA Passport, Driver's License, or SSS/GSIS UMID)",
+        "type": "Original"
+      },
+      {
+        "item": "Clear photocopy of Proof of Identity",
+        "type": "Photocopy"
+      },
+      {
+        "item": "Original Proof of Address (Barangay Certificate of Residency issued within 3 months, utility bill, or bank statement)",
+        "type": "Original"
+      },
+      {
+        "item": "Clear photocopy of Proof of Address",
+        "type": "Photocopy"
+      },
+      {
+        "item": "Original and photocopy of PSA Marriage Certificate (for married females adopting husband's surname)",
+        "type": "Original & Photocopy"
+      }
+    ],
+    "requirements": [
+      "Two accomplished application forms",
+      "One valid proof of identity",
+      "One valid proof of address",
+      "Payment of ₱550 fee",
+      "Personal appearance for digital portrait, fingerprints, and electronic signature"
+    ],
+    "steps": [
+      {
+        "instruction": "Complete two copies of the application form and assemble your proof of identity and proof of address.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Submit documents to the capturing teller at an authorized post office or mall capturing booth.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Pay the ₱550 fee at the postal cashier window.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Undergo digital capture: live portrait photograph, dual-thumb biometric impression, and digital signature.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Verify encoded data on the operator's preview screen to confirm zero spelling errors.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Receive your transaction stub and await direct door-to-door delivery of the PVC card by your area mail carrier.",
+        "mode": "in-person"
+      }
+    ]
+  },
+  {
+    "id": "dti-business-name",
+    "name": "Certificate of Business Name Registration (Sole Proprietorship)",
+    "agency": "Department of Trade and Industry (DTI)",
+    "category": "Business and Enterprise",
+    "description": "Legal certificate establishing the sole proprietor's authority to use a specific commercial name for business operations.",
+    "whereToGo": "DTI BNRS Portal (Online) or DTI Negosyo Center",
+    "fees": "₱200 (Barangay Scope), ₱500 (City/Municipality Scope), ₱1,000 (Regional Scope), ₱2,000 (National Scope) + ₱30 Documentary Stamp Tax",
+    "processingTime": "8 to 15 minutes (Full online processing)",
+    "validity": "5 Years from date of registration",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [
+      "https://bnrs.dti.gov.ph"
+    ],
+    "whatToBring": [
+      {
+        "item": "Digital copy of one valid government-issued photo ID (uploaded during online registration)",
+        "type": "Original/Digital"
+      },
+      {
+        "item": "Proposed Business Name (Dominant Name and PSIC Business Descriptor)",
+        "type": "Original/Digital"
+      }
+    ],
+    "requirements": [
+      "Filipino citizen at least 18 years of age",
+      "Sole proprietorship business structure",
+      "Valid government-issued photo ID",
+      "Active Philippine mobile number and email address",
+      "Agreement to digital Undertaking Form"
+    ],
+    "steps": [
+      {
+        "instruction": "Access bnrs.dti.gov.ph, click 'New Registration', and accept the terms of service agreement.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Input the owner's legal demographic data, residential address, and upload valid government ID details.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Select your territorial scope, enter your proposed dominant business name and descriptor, and run name evaluation.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Review the assigned Reference Code, verify entered enterprise details, and sign the electronic Undertaking.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Settle the prescribed registration fee and DST via GCash, Maya, LandBank Link.Biz, or credit/debit card within 7 days.",
+        "mode": "online"
+      },
+      {
+        "instruction": "Download and print your Certificate of Business Name Registration sent to your registered email address.",
+        "mode": "online"
+      }
+    ]
+  },
+  {
+    "id": "lgu-barangay-clearance",
+    "name": "Barangay Clearance & Certificate of Residency",
+    "agency": "Local Government Unit (Barangay Government)",
+    "category": "Clearances and Employment",
+    "description": "Local administrative certification proving bona fide residency and clean standing within the community.",
+    "whereToGo": "Local Barangay Hall having territorial jurisdiction",
+    "fees": "₱50.00 to ₱100.00 standard administrative fee (₱0.00 for verified First-Time Jobseekers under RA 11261)",
+    "processingTime": "10 to 20 minutes for counter walk-in processing",
+    "validity": "3 to 6 Months from date of issuance",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [],
+    "whatToBring": [
+      {
+        "item": "Accomplished Barangay Clearance Request Slip",
+        "type": "Original"
+      },
+      {
+        "item": "One valid government-issued ID or current Student ID",
+        "type": "Original"
+      },
+      {
+        "item": "Clear photocopy of valid government ID or Student ID",
+        "type": "Photocopy"
+      },
+      {
+        "item": "Proof of address (utility bill, lease contract, or endorsement by Purok/Sitio Leader)",
+        "type": "Original & Photocopy"
+      },
+      {
+        "item": "Current Community Tax Certificate (Cedula)",
+        "type": "Original"
+      },
+      {
+        "item": "Signed Oath of Undertaking under RA 11261 (for entry-level first-time jobseekers)",
+        "type": "Original"
+      }
+    ],
+    "requirements": [
+      "Minimum residency in the barangay (typically 3 to 6 months)",
+      "Accomplished request slip with stated transaction purpose",
+      "One valid ID",
+      "Community Tax Certificate (Cedula)",
+      "Zero derogatory blotter records"
+    ],
+    "steps": [
+      {
+        "instruction": "Proceed to the Barangay Hall where you reside and present your proof of residency and valid ID.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Request a Barangay Clearance or Certificate of Residency, stating your intended legal or employment purpose.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "If applying as an entry-level worker, present your signed Oath of Undertaking to claim RA 11261 fee waiver.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Wait while the desk officer verifies records, checks blotter entries, and logs the request in the registry.",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Pay the clearance fee at the barangay treasury counter (or claim exemption under RA 11261).",
+        "mode": "in-person"
+      },
+      {
+        "instruction": "Secure the signature of the Punong Barangay or duty Kagawad, verify the dry seal, and claim your physical certificate.",
+        "mode": "in-person"
+      }
+    ]
+  },
+  {
+    "id": "lgu-mayors-permit",
+    "name": "Mayor's Permit and Barangay Business Clearance",
+    "agency": "Local Government Unit (BPLO) & Barangay Government",
+    "category": "Business and Enterprise",
+    "description": "Comprehensive local municipal license authorizing a commercial establishment to legally operate within city/municipal boundaries.",
+    "whereToGo": "Business One-Stop Shop (BOSS) at City/Municipal Hall and Local Barangay Hall",
+    "fees": "Variable based on declared capitalization, classification, and floor area (typically ₱1,500.00 to ₱10,000.00+)",
+    "processingTime": "1 to 3 working days via standard Business One-Stop Shop (BOSS) processing",
+    "validity": "1 Calendar Year (Expires December 31; renewal required January 1 to 20)",
+    "lastVerified": "2026-10-14",
+    "officialLinks": [],
+    "whatToBring": [
+      {
+        "item": "Duly accomplished Unified Business Permit Application Form",
+        "type": "Original"
+      },
+      {
+        "item": "Original and photocopy of DTI Certificate of Business Name Registration (or SEC Articles of Incorporation)",
+        "type": "Original & Photocopy"
+      },
+      {
+        "item": "Original Barangay Business Clearance issued by the local barangay where the enterprise is located",
+        "type": "Original"
+      },
+      {
+        "item": "Proof of right to occupy premises (Transfer Certificate of Title, tax declaration, or notarized lease contract)",
+        "type": "Original & Photocopy"
+      },
+      {
+        "item": "Comprehensive General Liability Insurance (CGL
